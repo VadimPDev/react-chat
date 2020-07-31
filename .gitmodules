@@ -1,0 +1,3 @@
+[submodule "react-chat-fronted"]
+	path = react-chat-fronted
+	url = https://github.com/VadimPDev/react-chat-fronted
